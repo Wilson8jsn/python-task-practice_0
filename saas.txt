@@ -1,0 +1,12 @@
+# crear entorno virtual
+wilssoncasstillo@MacBook-Air-de-Wilson python % python3 -m venv env
+
+#Activar entorno virtual
+
+wilssoncasstillo@MacBook-Air-de-Wilson python % source env/bin/activate
+(env) wilssoncasstillo@MacBook-Air-de-Wilson python % 
+
+#Desactivar entorno virtual
+
+source deactivate
+
