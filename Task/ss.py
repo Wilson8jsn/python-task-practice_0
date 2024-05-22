@@ -10,7 +10,7 @@ def extract_file(zfile, password):
         return None
 
 def main():
-    zfile = zipfile.ZipFile("name.zip")
+    zfile = zipfile.ZipFile("data.zip")
     pass_file = open('dictionary.txt')
     
     for line in pass_file.readlines():
