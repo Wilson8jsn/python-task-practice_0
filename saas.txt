@@ -10,3 +10,5 @@ wilssoncasstillo@MacBook-Air-de-Wilson python % source env/bin/activate
 
 source deactivate
 
+
+3

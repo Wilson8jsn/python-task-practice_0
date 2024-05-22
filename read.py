@@ -26,14 +26,6 @@ with open('nombres.txt', 'r') as file:
     print(contenido) 
     
 """
-    
- # Leer solo la segunda linea
-"""
-with open('nombres.txt', 'r') as file:
-    contenido = file.readline()  
-    contenido = file.readline() 
-    print(contenido)
-""" 
    
    
 # Funcion  
