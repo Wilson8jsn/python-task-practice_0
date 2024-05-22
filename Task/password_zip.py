@@ -2,7 +2,7 @@
 
 import zipfile
 
-passw = "pass123"
+passw = "pass12"
 zfile = zipfile.ZipFile("data.zip")
 
 with open("dictionary.txt", 'r') as file:
