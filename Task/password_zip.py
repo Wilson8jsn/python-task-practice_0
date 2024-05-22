@@ -1,9 +1,11 @@
+# Codificar un archivo zip y descodificar
+
 import zipfile
 
 passw = "pass123"
 zfile = zipfile.ZipFile("data.zip")
 
-with open("diccionario.txt", 'r') as file:
+with open("dictionary.txt", 'r') as file:
   
     if passw in file.read().splitlines():
         try:  
